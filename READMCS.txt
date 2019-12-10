@@ -1,0 +1,1 @@
+[{"id":"559d4f71.e7b01","type":"function","z":"31059537.145f0a","name":"Payload","func":"msg,headers={\n    deviceKey:  \"WRSRoEAx1U0wxgbD\"\n};\nreturn msg;","outputs":1,"noerr":0,"x":290,"y":340,"wires":[["22aa1756.a0c4c8"]]}]
